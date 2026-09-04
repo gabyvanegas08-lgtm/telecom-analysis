@@ -1,6 +1,8 @@
 ANALISIS DE UNA EMPRESA DE TELECOMUNICACIONES
 
-El objetivo de la empresa es identificar patrones de uso, detectar comportamientos atípicos y comprender qué segmentos de clientes muestran necesidades diferenciadas, con el fin de optimizar la oferta comercial y mejorar la experiencia del usuario.
+Este proyecto aborda un caso de análisis exploratorio y segmentación de clientes para ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
+
+El objetivo del negocio es comprender el comportamiento real de consumo de los usuarios —llamadas y mensajes— para identificar patrones de uso, detectar valores atípicos (outliers) que puedan señalar fraude o errores de registro, y construir segmentaciones accionables basadas en edad, país y nivel de consumo, con el fin de optimizar la oferta comercial y mejorar la retención (churn)
 
 Para ello, trabajarás con tres fuentes de datos:
 
@@ -17,4 +19,6 @@ DATA SETS UTILIZADOS
 4. Summary statistics
 5. Visualización & outliers
 6. Segmentación
-   
+
+
+Este proyecto demuestra un flujo completo de análisis de datos aplicado a un caso real de telecomunicaciones: desde la limpieza e integración de datos hasta la segmentación de clientes y detección de outliers, traduciendo hallazgos técnicos en recomendaciones comerciales accionables para ConnectaTel.
