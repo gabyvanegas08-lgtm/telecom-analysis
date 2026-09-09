@@ -1,4 +1,4 @@
-ANALISIS DE UNA EMPRESA DE TELECOMUNICACIONES
+# ANALISIS DE UNA EMPRESA DE TELECOMUNICACIONES
 
 Este proyecto aborda un caso de análisis exploratorio y segmentación de clientes para ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
